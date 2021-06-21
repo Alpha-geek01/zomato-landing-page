@@ -166,19 +166,19 @@ section {
   background: linear-gradient(to right, #ff512f 0%, #dd2476 51%, #ff512f 100%);
 }
 
-.restaurant__list__text {
+.restaurant__text {
   margin: 1rem 0;
 }
 
-.restaurant__list__container {
+.restaurant__container {
   margin-top: 3rem;
 }
 
-.restaurant__list__row_1 {
+.restaurant__images__row1 {
   display: flex;
   align-items: baseline;
 }
-.restaurant__list__row_2 {
+.restaurant__images__row2 {
   margin-top: 10px;
   display: flex;
   align-items: flex-start;
@@ -203,7 +203,7 @@ section {
     0 4px 6px -2px rgba(0, 0, 0, 0.05);
 }
 
-.email__subcribe__container {
+.email__container {
   margin-top: 3rem;
   width: 100%;
   padding: 15px;
@@ -211,7 +211,7 @@ section {
   margin-left: auto;
 }
 
-.email__subcribe__input__field {
+.email__input__field {
   display: flex;
   align-items: center;
 }
@@ -344,21 +344,21 @@ footer > ul > li {
     background: none;
   }
 
-  .restaurant__list__container {
+  .restaurant__container {
     display: flex;
     justify-content: space-between;
     align-items: center;
   }
 
-  .restaurant__list__row_1 {
+  .restaurant__images__row1 {
     justify-content: center;
   }
-  .restaurant__list__row_2 {
+  .restaurant__images__row2 {
     margin-top: 3px;
     align-items: flex-start;
     justify-content: center;
   }
-  .email__subcribe__container {
+  .email__container {
     display: flex;
 
     justify-content: center;
